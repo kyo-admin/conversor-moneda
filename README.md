@@ -11,11 +11,11 @@
 
 
 <h2>Instalación</h2>
-Descarga el programa desde el siguiente <a href ="https://github.com/kyo-admin/conversor-moneda.git">repositorio</a>, guardalo, descomprimelo y abrelo con Intellij IDEA
+Descarga el programa desde el siguiente <a href ="https://github.com/kyo-admin/conversor-moneda.git" target="_blank">repositorio</a>, guardalo, descomprimelo y abrelo con Intellij IDEA
 
 <img width="1911" height="799" alt="image" src="https://github.com/user-attachments/assets/0fd8041a-d8d7-4d75-9372-adb871cd4375" />
 
-Necesitaremos instalar <a href="https://mvnrepository.com/artifact/com.google.code.gson/gson">Gson</a> para que nuestro programa funcione 
+Necesitaremos instalar <a href="https://mvnrepository.com/artifact/com.google.code.gson/gson" target="_blank">Gson</a> para que nuestro programa funcione 
 
 <img width="513" height="285" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e9843991-35e1-45a9-bd7e-0511784deac7" />
 
@@ -35,7 +35,7 @@ se desplegara una ventana donde seleccionaremos Modules - luego en "+" , seguido
 
 <img width="1017" height="702" alt="image" src="https://github.com/user-attachments/assets/40e213f3-6530-4473-9295-02c3b1878329" />
 
-<h2>Instalación</h2>
+<h2>Ejecución</h2>
 Ve al archivo Main.java y haz click en el botón verde
 <img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/93e7821b-7368-4471-9cfe-6684d6e3486c" />
 
