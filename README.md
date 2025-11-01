@@ -7,7 +7,7 @@
 
 <h2>Indice</h2>
 
-<a href=""># Instalación</a>
+<a href="https://github.com/kyo-admin/conversor-moneda/tree/main#instalaci%C3%B3n"># Instalación</a>
 
 <a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-agregar-amigos"># Implementa una función para agregar amigos</a>
 
